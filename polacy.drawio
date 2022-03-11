@@ -1,57 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T09:24:58.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LUuZKvQNDBlSdsAbeGWm" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T09:41:25.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="doQeF-Rb5vqITV2jEktO" version="17.1.1" type="github">
   <diagram id="ARmxZ4ZYsMMWMX8qsj5U" name="Page-1">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-1" value="Imię" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-2" value="Nazwisko" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CaIBra7wWAyaWLFx-YUH-4" target="CaIBra7wWAyaWLFx-YUH-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-4" value="Rocznik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="CaIBra7wWAyaWLFx-YUH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CaIBra7wWAyaWLFx-YUH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CaIBra7wWAyaWLFx-YUH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CaIBra7wWAyaWLFx-YUH-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-5" value="Osiągnięcia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CaIBra7wWAyaWLFx-YUH-5" value="Osiągnięcia&lt;br&gt;-znaczenie osiagniec&lt;br&gt;-dziedzina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CaIBra7wWAyaWLFx-YUH-1" target="CaIBra7wWAyaWLFx-YUH-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="250" as="sourcePoint" />
-            <mxPoint x="250" y="200" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CaIBra7wWAyaWLFx-YUH-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ytimg.com/vi/5XsKX7QKwJ0/maxresdefault.jpg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-130" width="520" height="293" as="geometry" />
         </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="229.5" as="sourcePoint" />
-            <mxPoint x="400" y="229.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CaIBra7wWAyaWLFx-YUH-22" value="&lt;span style=&quot;font-size: 40px&quot;&gt;IDE PO MILION&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-290" width="830" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CaIBra7wWAyaWLFx-YUH-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-14" value="Z czego są znani" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-16" value="Czy żyją" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CaIBra7wWAyaWLFx-YUH-18" target="CaIBra7wWAyaWLFx-YUH-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CaIBra7wWAyaWLFx-YUH-18" value="ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="CaIBra7wWAyaWLFx-YUH-23" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Wazne daty&lt;br&gt;&lt;/font&gt;-data urodzin&lt;br&gt;-data smierci&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
